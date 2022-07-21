@@ -8,7 +8,7 @@
 <br />
 
 - 👨‍🎓 Student at [VNU HCMC UIT](https://www.uit.edu.vn/)
-- 📚 I'm currently pursuing Data Science with the desire to build up lots of [cool stuff](https://github.com/HelloIsXinChao) for my beautiful national language
+- 📚 I'm currently pursuing Data Science with the desire to build up lots of [cool stuff](https://github.com/ds4v) for my beautiful national language
 - 😭 I'm looking for help with Statistics
 - ⚡ Fun fact: I love Astronomy 🛰️
 - 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ?sub_confirmation=1)
@@ -38,8 +38,8 @@
   <a href="https://github.com/18520339/ml-distributed-training" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=18520339&repo=ml-distributed-training" />
   </a>
-  <a href="https://github.com/HelloIsXinChao/NomNaOCR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloIsXinChao&repo=NomNaOCR" />
+  <a href="https://github.com/ds4v/NomNaOCR" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds4v&repo=NomNaOCR" />
   </a>
 </p>
 
